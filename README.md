@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working at [Genese Solutions](https://www.genesesolution.com/)
+- 🔭 I’m currently working at [Genese Solution](https://www.genesesolution.com/)
 - 🌱 I’m currently learning Cloud Technologies
 - 👯 I’m looking to collaborate on Intresting stuffs
 - 🤔 I’m looking for help with Microservice architecture and Kubernetes.
