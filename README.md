@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning about Cloud Technologies.
 - 👯 I’m vibing @ TechKraft.
-- 🤔 I’m looking for help with TypeScript.
+- 🤔 I’m looking for help with TypeScript and AWS.
 - 💬 Ask me about linux, python, and git related questions.
 - 📫 email:  shrestharajat@hotmail.com
 - ⚡ Fun fact: I can plug in USB C without looking at the plug
