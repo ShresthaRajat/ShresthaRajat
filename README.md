@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning about Cybersecurity, Cloud and Quantam Networks.
+- 🌱 I’m currently learning about Cybersecurity, Cloud and Life.
 - 👯 I’m vibing @ University of Hertfordshire.
 - 🤔 I’m looking for help with Contanerized workloads on cloud.
 - 💬 Ask me about linux, python, DevOps, Cloud, and git related questions.
