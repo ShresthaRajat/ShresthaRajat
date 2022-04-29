@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning about Kubernetes.
-- 👯 I’m vibing @ TechKraft.
+- 🌱 I’m currently learning about Cybersecurity, Cloud and Quantam Networks.
+- 👯 I’m vibing @ University of Hertfordshire.
 - 🤔 I’m looking for help with Contanerized workloads on cloud.
-- 💬 Ask me about linux, python, and git related questions.
+- 💬 Ask me about linux, python, DevOps, Cloud, and git related questions.
 - 📫 email:  shrestharajat@hotmail.com
 - ⚡ Fun fact: I can plug in USB C without looking at the plug!
 
